@@ -8,5 +8,8 @@ public class Main {
         double monthOne = interest * 1;
         double monthTwo = interest * 2;
 
+        System.out.println("Your credit card balance is " + creditCardBalance + " and your interest rate is " + INTEREST_RATE);
+        System.out.println("Your interest due after one month is " + monthOne);
+        System.out.println("Your interest due after two months is " + monthTwo);
     }
 }
