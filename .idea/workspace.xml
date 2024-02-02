@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01e1cee2-ab6a-439f-b948-317bf5639434" name="Changes" comment="Declared and initialized variables">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="01e1cee2-ab6a-439f-b948-317bf5639434" name="Changes" comment="Outputed cc balance, interest rate, and interest due after one month and two months" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706889245044</updated>
       <workItem from="1706889246150" duration="237000" />
-      <workItem from="1706889541733" duration="349000" />
+      <workItem from="1706889541733" duration="816000" />
     </task>
     <task id="LOCAL-00001" summary="Declared and initialized variables">
       <option name="closed" value="true" />
@@ -59,7 +57,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706889739266</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Outputed cc balance, interest rate, and interest due after one month and two months">
+      <option name="closed" value="true" />
+      <created>1706890199640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706890199640</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,7 +73,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Declared and initialized variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="Declared and initialized variables" />
+    <MESSAGE value="Outputed cc balance, interest rate, and interest due after one month and two months" />
+    <option name="LAST_COMMIT_MESSAGE" value="Outputed cc balance, interest rate, and interest due after one month and two months" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
